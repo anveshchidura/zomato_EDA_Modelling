@@ -1,4 +1,4 @@
- ***Zomato Bangalore Restaurants***
+ ***Zomato Bangalore Restaurants Exploratory Data Analysis and Modelling***
 
 **Big-Data-Group-14**
 
@@ -7,14 +7,11 @@ This project is a part of the ITCS 6100 - Big Data Analytics for Competitive Adv
 
  **Deliverable-1**
 
-GitHub - https://github.com/Vishnureddy466/bigData
-
-
 **1.a	Group Members:**
 
-●	Vishnu Vardhan Reddy Addulamale
-
 ●	Anvesh Chidura
+
+●	Vishnu Vardhan Reddy Addulamale
 
 ●	Jaideep Gurrapu
 
@@ -75,11 +72,11 @@ Going forward we may add a few more questions and try to resolve those.
 
 **a) Exploratory Data Analysis:**
 
-Once the dataset is loaded into an S3 Bucket, by Leveraging the AWS Sagemaker service(https://github.com/Vishnureddy466/bigData/blob/main/Project%20files/AWS%20sagemaker/Deliverable_final.ipynb), we performed Exploratory Data Analysis and performed data preparation tasks on Zomato dataset. The ipynb file of this detailed analysis is located here.
+Once the dataset is loaded into an S3 Bucket, by Leveraging the AWS Sagemaker service(https://github.com/anveshchidura/zomato_EDA_Modelling/blob/main/Deliverable-2/AWS%20sagemaker/Deliverable_final.ipynb), we performed Exploratory Data Analysis and performed data preparation tasks on Zomato dataset. The ipynb file of this detailed analysis is located here.
 
  **b) Dashboard:**
 
-By Leveraging AWS Quicksight service(https://github.com/Vishnureddy466/bigData/blob/main/Project%20files/AWS%20Quicksight/Quicksite_visualization.pdf) we have constructed dashboards on different columns of the dataset and gathered insights that aid to understand the nuances and existing patterns in the dataset. The PDF file consisting of screenshots of these interactive visualizations is present in the file here. 
+By Leveraging AWS Quicksight service(https://github.com/anveshchidura/zomato_EDA_Modelling/blob/main/Deliverable-2/AWS%20Quicksight/Quicksite_visualization.pdf) we have constructed dashboards on different columns of the dataset and gathered insights that aid to understand the nuances and existing patterns in the dataset. The PDF file consisting of screenshots of these interactive visualizations is present in the file here. 
 
 **Data Preparation:**
 
